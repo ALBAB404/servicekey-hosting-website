@@ -3,8 +3,8 @@
 // All Import File  Code Is Here......................................................................................................
 
 import {
-  HeroSection,
-  PromoSection,
+  HeroSection4,
+  PromoSection3,
   ServiceSection,
   CallToActionSection,
   PriceSection,
@@ -24,11 +24,11 @@ import {
 <template lang="">
     <div class="main">
       <!--hero section start-->
-     <HeroSection />
+     <HeroSection4 />
       <!--hero section end-->
 
       <!--promo-section section start-->
-    <PromoSection />
+    <PromoSection3 />
       <!--promo-section section end-->
 
       <!--services section start-->
